@@ -42,7 +42,7 @@ Redux-Store is an application that allows user to purchase products online and c
 # 🔗 Application Links
 
 * [Github](https://thuluong249.github.io/redux-store-hw22/)
-* [Heroku](https://git.heroku.com/redux-in-town.git)
+* [Heroku](https://redux-in-town.herokuapp.com/)
 
 # 📱 Contact 
 
