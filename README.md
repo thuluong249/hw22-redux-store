@@ -1,15 +1,14 @@
 # hw22-redux-store
 
-# Redux-Store 
-
 ![banner](./images/banner.png)
 
+
+[![License: MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
 # 📋 Description 📋
 
 Redux-Store is an application that allows user to purchase products online and checkout using a payment processing through Stripe. 
 
-[![License: MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
 
 # 💼 Technologies Used 💼
@@ -31,18 +30,25 @@ Redux-Store is an application that allows user to purchase products online and c
 
 # 📸 Screenshots 📸
 
-![Homepage](./images/homepage.png)
+## Show the homepage
+![Homepage](./images/home.png)
 
-![Login to Checkout](./images/login.png)
-
+## Show items in the cart and required login to checkout
 ![Cart](./images/cart.png)
+
+## Login page
+![Cart](./images/login.png)
+
+
+## Checkout with stripe
+![Login to Checkout](./images/checkout.png)
 
 
 
 # 🔗 Application Links
 
 * [Github](https://thuluong249.github.io/redux-store-hw22/)
-* [Heroku](https://redux-in-town.herokuapp.com/)
+* [Heroku](https://redux-in-kent.herokuapp.com/)
 
 # 📱 Contact 
 
