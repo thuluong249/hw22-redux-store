@@ -39,7 +39,6 @@ function App() {
 		<ApolloProvider client={client}>
 			<Router>
 				<div>
-					{/* <StoreProvider> */}
 					<Provider store={store}>
 						<Nav />
 						<Switch>
@@ -52,7 +51,6 @@ function App() {
 							<Route component={NoMatch} />
 						</Switch>
 					</Provider>
-					{/* </StoreProvider> */}
 				</div>
 			</Router>
 		</ApolloProvider>
